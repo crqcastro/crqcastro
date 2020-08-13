@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning REACT
 - 👯 I’m looking to collaborate on JAVA & PL/SQL Projects
 
-[![Cesar Castro's github stats](https://github-readme-stats.vercel.app/api?username=crqcastro)](https://github.com/anuraghazra/github-readme-stats)
+[![Cesar Castro's github stats](https://github-readme-stats.vercel.app/api?username=crqcastro&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a target="_blank" href="https://www.linkedin.com/in/cesarrqcastro/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
