@@ -3,9 +3,12 @@
 - 🔭 I’m currently working on Java & PL/SQL
 - 🌱 I’m currently learning REACT
 - 👯 I’m looking to collaborate on JAVA & PL/SQL Projects
+<hr/>
 
-[![Cesar Castro's github stats](https://github-readme-stats.vercel.app/api?username=crqcastro&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
+<hr/>
 <a target="_blank" href="https://www.linkedin.com/in/cesarrqcastro/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
