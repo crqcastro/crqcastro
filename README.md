@@ -15,6 +15,7 @@
 <code><img height="120" src="https://github.com/crqcastro/crqcastro/blob/master/Certificados/Alura/Expert_OO.png?raw=true"></code>
 <code><img height="120" src="https://github.com/crqcastro/crqcastro/blob/master/Certificados/Alura/JAVA.png?raw=true"></code>
 <code><img height="120" src="https://github.com/crqcastro/crqcastro/blob/master/Certificados/Alura/PL_SQL.png?raw=true"></code>
+<code><img height="120" src="https://github.com/crqcastro/crqcastro/blob/master/Certificados/Oracle/JavaSE8Programmer.png?raw=true"></code>
 <hr/>
 <a target="_blank" href="https://www.linkedin.com/in/cesarrqcastro/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
