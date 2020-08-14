@@ -8,7 +8,11 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://github.com/crqcastro/crqcastro/blob/master/DATABASE-%E2%80%93-Oracle-PL-SQL-DBA-Training.jpg?raw=true"></code>
-
+<hr/>
+### Courses and Training
+<code><img height="120" src="https://github.com/crqcastro/crqcastro/blob/master/Certificados/Alura/Expert_OO.png?raw=true"></code>
+<code><img height="120" src="https://github.com/crqcastro/crqcastro/blob/master/Certificados/Alura/JAVA.png?raw=true"></code>
+<code><img height="120" src="https://github.com/crqcastro/crqcastro/blob/master/Certificados/Alura/PL_SQL.png?raw=true"></code>
 <hr/>
 <a target="_blank" href="https://www.linkedin.com/in/cesarrqcastro/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
