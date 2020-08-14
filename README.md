@@ -10,6 +10,7 @@
 <code><img height="40" src="https://github.com/crqcastro/crqcastro/blob/master/DATABASE-%E2%80%93-Oracle-PL-SQL-DBA-Training.jpg?raw=true"></code>
 <hr/>
 ### Courses and Training
+<code><br/></code>
 <code><img height="120" src="https://github.com/crqcastro/crqcastro/blob/master/Certificados/Alura/Expert_OO.png?raw=true"></code>
 <code><img height="120" src="https://github.com/crqcastro/crqcastro/blob/master/Certificados/Alura/JAVA.png?raw=true"></code>
 <code><img height="120" src="https://github.com/crqcastro/crqcastro/blob/master/Certificados/Alura/PL_SQL.png?raw=true"></code>
