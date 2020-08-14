@@ -32,3 +32,10 @@
 <a target="_blank" href="https://cesarcastro.com.br">
   <img align="left" alt="WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/internetexplorer.svg" />
 </a>
+<code><br/></code>
+<hr/>
+<table border="0">
+  <tr>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=crqcastro&count_private=true&show_icons=true&theme=dracula" /></td>
+  </tr>   
+</table>
