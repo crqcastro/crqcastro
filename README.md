@@ -32,6 +32,9 @@
 <a target="_blank" href="https://cesarcastro.com.br">
   <img align="left" alt="WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/internetexplorer.svg" />
 </a>
+<a target="_blank" href="https://www.youracclaim.com/users/crqcastro/badges">
+  <img align="left" alt="WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/oracle.svg" />
+</a>
 <code><br/></code>
 <hr/>
 <table border="0">
