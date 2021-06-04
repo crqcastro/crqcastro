@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Java & PL/SQL
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning REACT and Flutter for fun
 - 👯 I’m looking to collaborate on JAVA & PL/SQL Projects
 <hr/>
 
