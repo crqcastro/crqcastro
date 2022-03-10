@@ -19,6 +19,7 @@
 <code><img height="120" src="https://github.com/crqcastro/crqcastro/blob/master/Certificados/Udemy/rabbit.jpg?raw=true"></code>
 <code><img height="120" src="https://github.com/crqcastro/crqcastro/blob/master/Certificados/AWS/129_3_1389357_1646397712_AWS Course Completion Certificate_page-0001.jpg?raw=true"></code>
 <code><img height="120" src="https://github.com/crqcastro/crqcastro/blob/master/Certificados/AWS/155_3_1389357_1646398581_AWS Course Completion Certificate_page-0001.jpg?raw=true"></code>
+<code><img height="120" src="https://github.com/crqcastro/crqcastro/blob/master/Certificados/AWS/2045_3_1389357_1646401136_AWS Course Completion Certificate_page-0001"></code>
 <hr/>
 <a target="_blank" href="https://www.linkedin.com/in/cesarrqcastro/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
